@@ -57,7 +57,7 @@ function shuffleCardImageClasses() {
 
 
 function createCards(parentElement, shuffledImageClasses) {
-	//Creates an empty array to hold the card objects.
+    //Creates an empty array to hold the card objects.
     let cards = [];
     
     //This for loop loops 12 times because we need 12 cards created
